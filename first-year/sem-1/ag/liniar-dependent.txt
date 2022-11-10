@@ -1,0 +1,2 @@
+Un sistem de vectori se nume¸ste liniar dependent dac˘a unul din vectorii
+s˘ai se poate scrie ca o combinat¸ie liniar˘a a celorlalt¸i vectori din sistem.
