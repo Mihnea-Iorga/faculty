@@ -1,0 +1,16 @@
+Principalele elemente ale unei scheme logice
+
+Primii paúi în domeniul programării structurate vor fi făcuĠi prin intermediul
+schemelor logice, o metodă foarte bună pentru dezvoltarea raĠionamentului.
+
+Independente de limbajul de programare, schemele logice sunt reprezentări
+grafice ale programelor, oferind o imagine clară asupra acestora úi permiĠând o
+dezvoltare mai uúoară, ele fiind cel mai simplu mod de exprimare a unui algoritm. 
+Schemele logice pot părea arhaice. Cu toate acestea, ele stau la baza conceperii unui program, 
+fiind foarte folositoare mai ales celor care se află la început în ceea ce priveúte programarea. 
+Se spune că o imagine valorează cât o mie
+de cuvinte, iar schemele logice reprezintă exact imaginea unui program, 
+scrierea efectivă a programului, după reprezentarea lui grafică, fiind doar o muncă de rutină [GP00].
+
+Schemele logice sunt compuse din câteva simboluri cu ajutorul cărora se poate
+reprezenta orice algoritm.
