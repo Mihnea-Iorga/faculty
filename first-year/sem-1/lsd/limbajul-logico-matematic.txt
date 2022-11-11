@@ -1,0 +1,14 @@
+Limbajul logico-matematic
+
+Matematica este o expresie a capacităţii gândirii umane de tip raţional. Ea studiază proprietăţile
+observabile ale obiectelor, atât extern în plan senzorial cât şi intern în plan mintal, în termenii de
+cantitate, structură, spaţiu şi eveniment. Obiectele studiate în matematică sunt obiecte abstracte, care
+nu există într-un timp şi/sau spaţiu particular, ci în principal există ca tip sau categorie. Matematica
+discretă se ocupă cu studiul obiectelor matematice care sunt discrete şi nu continue. Aceste obiecte, în
+general, nu prezintă o variaţie lină ci au valori distincte sau separate (de exemplu, numerele întregi,
+grafurile, sau declaraţiile logice). Matematica discretă a câştigat o mare popularitate în ultimul secol
+datorită aplicaţiilor sale în ştiinţa calculatoarelor. Conceptele şi notaţiile utilizate de matematica
+discretă se regăsesc în aspectele fundamentale ale structurilor de date, algoritmilor şi limbajelor de
+programare ale calculatoarelor. Matematica discretă acoperă în principal domenii precum teoria
+mulţimilor, combinatorica, teoria numerelor, logica, teoria informaţiei, teoria calculabilităţii,
+complexitate, cercetare operaţională, discretizare. 
